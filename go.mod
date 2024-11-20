@@ -1,4 +1,4 @@
-module geminiz
+module github.com/fajarutamaa/geminiz
 
 go 1.23.3
 
